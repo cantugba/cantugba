@@ -2,7 +2,7 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 </div>
 
-<p align="left"> 
+<p align="center"> 
   <b>Visitor Count</b><br>
   <img src="https://profile-counter.glitch.me/tugbaca/count.svg" /> 
 </p>
