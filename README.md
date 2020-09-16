@@ -1,14 +1,15 @@
-### Hi there 👋 <p align="left"> 
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
+</div>
+
+<p align="left"> 
   <b>Visitor Count</b><br>
-  <img src="https://profile-counter.glitch.me/tugbaca/count.svg" />
+  <img src="https://profile-counter.glitch.me/tugbaca/count.svg" /> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugbaca&layout=compact&langs_count=8&bgcolor=cobalt)](https://github.com/tugbaca/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugbaca&layout=compact&langs_count=8)](https://github.com/tugbaca/github-readme-stats)
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-
-
-
 
 
 
