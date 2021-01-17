@@ -12,10 +12,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugbaca&theme=tokyonight&layout=compact&langs_count=10" />
 </a></p>
 
-
-
+<br>
 
 <p align="center">
-<img src="https://media.giphy.com/media/xUA7aKLVvFU9Zbapj2/giphy.gif" width="500" height="300"> 
+<img src="https://media.giphy.com/media/xUA7aKLVvFU9Zbapj2/giphy.gif" width="750" height="480"> 
 </p>
 
