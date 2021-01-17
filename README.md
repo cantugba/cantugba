@@ -16,6 +16,6 @@
 
 
 <p align="center">
-<h3><img src="https://media.giphy.com/media/xUA7aKLVvFU9Zbapj2/giphy.gif" width="480" height="270"> </h3>
+<img src="https://media.giphy.com/media/xUA7aKLVvFU9Zbapj2/giphy.gif" width="500" height="300"> 
 </p>
 
