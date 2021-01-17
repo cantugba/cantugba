@@ -12,9 +12,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugbaca&theme=tokyonight&layout=compact&langs_count=10" />
 </a></p>
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 
 
-
+<p align="center">
+<h3><img src="https://media.giphy.com/media/xUA7aKLVvFU9Zbapj2/giphy.gif" width="480" height="270"> </h3>
+</p>
 
