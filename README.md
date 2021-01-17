@@ -9,7 +9,7 @@
 
 <p align="center"> 
   <a href="https://github.com/tugbaca/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugbaca&theme=tokyonight&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugbaca&theme=dark&layout=compact&langs_count=10" />
 </a></p>
 
 <br>
