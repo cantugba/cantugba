@@ -3,6 +3,10 @@
 </div>
 
 
+<p align="center"> 
+  <b>Visitor Count</b><br>
+  <img src="https://profile-counter.glitch.me/tugbaca/count.svg" /> 
+</p>
 
 <p align="center"> 
   <a href="https://github.com/tugbaca/github-readme-stats">
