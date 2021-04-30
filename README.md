@@ -10,6 +10,6 @@
 <br>
 
 <p align="center">
-<img src="https://media.giphy.com/media/xUA7aKLVvFU9Zbapj2/giphy.gif" width="750" height="420"> 
+<img src="https://media.giphy.com/media/xUA7b4arnbo3THfzi0/giphy.gif" width="750" height="420"> 
 </p>
 
