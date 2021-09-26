@@ -3,11 +3,12 @@
 </div>
 
 <div  align="center">
-<a href="https://github.com/tugbaca/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cantugba&theme=calm" />
-</a>
+  
 <a href="https://github.com/tugbaca/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cantugba&theme=calm&layout=compact&langs_count=8" />
+</a>
+<a href="https://github.com/tugbaca/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cantugba&theme=calm" />
 </a>
 </div>
 <br>
