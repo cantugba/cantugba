@@ -4,7 +4,7 @@
 
 <div  align="center">
 <a href="https://github.com/tugbaca/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cantugba&theme=calm&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cantugba&theme=calm&layout=compact&langs_count=8" />
 </a>
 </div>
 
