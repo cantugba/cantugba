@@ -1,5 +1,5 @@
 <div align="center">
-<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> Hello</h1>
+<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> console.log("Hello");</h1>
 </div>
 
 <p align="center">
